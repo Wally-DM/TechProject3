@@ -4,6 +4,7 @@ namespace TechProject3
 {
     class Program
     {
+        // David Wallace - Tech Porject 3
         // this number will be how Kilometers are converted to Miles.
         const decimal KM_TO_M = 0.621371m;
 
